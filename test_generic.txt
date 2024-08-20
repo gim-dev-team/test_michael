@@ -1,1 +1,3 @@
-password=hwq*aczHCF!cwY-yo999
+@@ -1 +1 @@
+-+passwordPatternContainUpperCase=[a-zA-Z]*[A-Z]+[a-zA-Z]*
+++passwordPatternContainUpperCase=[a-hA-H]*[A-Z]+[a-zA-Z]*
