@@ -1,1 +1,1 @@
-passwordtest=[a-zA-Z]*[A-Z]+[a-zA-Z]
+passwordtest2=[a-zA-Z]*[A-Z]+[a-zA-Z]
